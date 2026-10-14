@@ -1,5 +1,9 @@
 Notebook 120
 Pencil 450
-Stapler 11
+<<<<<<< HEAD
+Stapler 14
+=======
+Stapler 18
+>>>>>>> kaan-count
 Tape 60
 Labels 300
