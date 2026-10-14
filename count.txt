@@ -7,3 +7,4 @@ Stapler 18
 >>>>>>> kaan-count
 Tape 60
 Labels 300
+Glue 25
