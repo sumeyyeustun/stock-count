@@ -3,3 +3,4 @@ Pencil 450
 Stapler 14
 Tape 60
 Envelopes 500
+Rubber bands 900
